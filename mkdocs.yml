@@ -1,5 +1,8 @@
 site_name: Prophet's Handbook
 nav:
     - Home: index.md
+    - Bible: bible.md
     - About: about.md
+theme:
+    name: readthedocs
 
