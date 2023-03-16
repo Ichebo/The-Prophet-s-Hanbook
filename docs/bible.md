@@ -1,8 +1,8 @@
 # Bible Books List
 
-## Old Testament
+<!-- ## Old Testament -->
 
-### Genesis
+### [Genesis](bible/1.Genesis/genesis-home.md#genesis-home)
 ### Exodus
 ### Leviticus
 ### Numbers
@@ -42,7 +42,7 @@
 ### Zechariah
 ### Malachi
 
-## New Testament
+<!-- ## New Testament -->
 
 ### Matthew
 ### Mark

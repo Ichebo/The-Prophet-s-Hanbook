@@ -2,7 +2,13 @@ site_name: Prophet's Handbook
 nav:
     - Home: index.md
     - Bible: bible.md
-    - About: about.md
+    - 'Libraries':
+        - 'Reference Library': 'reference-library.md'
+        - 'Keys Library': 'keys-library.md'
+        - 'Properties Library': 'properties-library.md'
+    - 'Resources': resources.md
+
 theme:
-    name: readthedocs
+    # name: readthedocs
+   
 

@@ -1,19 +1,28 @@
-# Introduction To The Handbook
+# Get Started
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the Prophet's Handbook. You will find the Operator's Tookit. Learn how to build it and effectively use it. This is section helps you learn how to use the handbook and nevigate your way around. To get started you can visit the following places:
 
-## Commands
+# [Bible](bible.md)
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Get the reference exactly where there in the Scriptures.
 
-## Project layout
+# Libraries Categories
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-## Concepts
-### Time Concepts
+Discover the classes aand the tools that every adept operator has it his or her disposal.
+
+## [Reference Library](reference-library.md)
+
+This is the comprehensive collection references that work are one part of the main library. There are collected from the Scriptures.
+## [Keys Library](keys-library.md)
+
+This is the collection of the keys collated here
+
+## [Properties Library](properties-library.md)
+
+The reference list of all concepts gathered from the scriptures. 
+
+# Journal Categories
+
+## [24-HRS Analysis](24-hrs-analysis.md)
+
+## [Dream Journal](dreams-journal.md)
