@@ -3,7 +3,7 @@
 <!-- ## Old Testament -->
 
 ### [Genesis](bible/1.Genesis/genesis-home.md#genesis-home)
-### Exodus
+### [Exodus](bible/2.Exodus/exodus-home.md)
 ### Leviticus
 ### Numbers
 ### Deuteronomy
